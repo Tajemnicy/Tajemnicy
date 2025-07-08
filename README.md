@@ -35,10 +35,6 @@
 ###
 
 <h2 align="left">Oprogramowanie</h2>
-
-###
-
-<h2 align="left">Oprogramowanie</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" style="height: 40px;" alt="premierepro logo" />
   <img width="12" />
